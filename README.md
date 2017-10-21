@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## About
 
-You can use the [editor on GitHub](https://github.com/davidBshiu/Blessed/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+The purpose of this app is so that you can easily document events, memories, and stories that show you the things you are thankful for. These personal posts can be easily revisited to remind you of all the blessings you have. From pictues, videos, short stories, to even quotes or Bible verses: these little blessings can encourage you in hard times. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Reason
 
-### Markdown
+The reason we made this app is so that people can remember things they are thankful for in life. They can be encouraged and empowered to continue on even if life gets hard. We also want people to have self-reflection on what they care about most in life. This is also to be reflective on seeing what God does for us from day to day in every moment. The verse our app is based off of is this:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+2 Corinthians 9:8 (NIV) - And God is able to bless you abundantly, so that in all things at all times, having all that you need, you will abound in every good work.
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/davidBshiu/Blessed/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Made @ Indigitous #Hack Austin 2017
