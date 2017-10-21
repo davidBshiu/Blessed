@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/addpostuploadphoto"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:text="Upload Photo"
+            android:layout_centerHorizontal="true"/>
+
+        <EditText
+            android:id="@+id/addpostblessing"
+            android:layout_width="300dp"
+            android:layout_height="300dp"
+            android:hint="Your blessing"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@+id/addpostuploadphoto"/>
+
+
+    <Button
+        android:id="@+id/home"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Home"
+        android:layout_alignParentBottom="true"
+        android:layout_toLeftOf="@+id/add"
+        android:layout_toStartOf="@+id/add" />
+
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignRight="@+id/center"
+        android:layout_alignEnd="@+id/center" />
+
+    <Button
+        android:id="@+id/calendar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Calendar"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/bible"
+        android:layout_toEndOf="@+id/bible" />
+
+    <Button
+        android:id="@+id/bible"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Bible"
+        android:layout_alignParentBottom="true"
+        android:layout_toRightOf="@+id/center"
+        android:layout_toEndOf="@+id/center" />
+    <Space
+        android:id="@+id/center"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:layout_centerHorizontal="true"/>
+
+</RelativeLayout>
